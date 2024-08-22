@@ -1,0 +1,10 @@
+django
+pillow
+pandas
+contourpy
+cycler
+fonttools
+kiwisolver
+pyparsing
+pytz
+matplotlib
